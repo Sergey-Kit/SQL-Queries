@@ -14,5 +14,7 @@ And **customer info**:
 - Age
 
 Tasks with the required query conditions are in the txt file.
+
 Solutions correspond to task numbers.
+
 This code is highly not optimized, if you have suggestions - text me)
